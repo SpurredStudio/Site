@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>spurredstudio.com/</link>
-    <atom:link href="spurredstudio.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jun 2016 13:11:42 -0600</pubDate>
-    <lastBuildDate>Sun, 12 Jun 2016 13:11:42 -0600</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 Jun 2016 14:25:30 -0600</pubDate>
+    <lastBuildDate>Sun, 12 Jun 2016 14:25:30 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Shortly after this website is deployed we will publish our first bit of content in the form of a Discord Bot. Discord is an amazing VoiP program for gamers, or anyone that uses a computer and needs to talk to others. We wanted to make our bot public so that others looking to make their own bot could learn what to do, or at least what not to do. We will dedicate a post to its release as well.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 -0600</pubDate>
-        <link>spurredstudio.com/blog/first-post</link>
-        <guid isPermaLink="true">spurredstudio.com/blog/first-post</guid>
+        <link>/blog/first-post</link>
+        <guid isPermaLink="true">/blog/first-post</guid>
         
         
       </item>
@@ -46,8 +46,8 @@
 &lt;p&gt;Though The bot is tailored to our Discord server so it will not work right out of the box. However once you have replaced a few lines of code to tailor the bot to your server it should run just fine. Specifically login information for the bot and twitter feed would need to be changed, and a couple lines that store channel and role information.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 -0600</pubDate>
-        <link>spurredstudio.com/blog/discord-bot</link>
-        <guid isPermaLink="true">spurredstudio.com/blog/discord-bot</guid>
+        <link>/blog/discord-bot</link>
+        <guid isPermaLink="true">/blog/discord-bot</guid>
         
         
       </item>

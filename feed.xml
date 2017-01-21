@@ -3,11 +3,11 @@
   <channel>
     <title></title>
     <description></description>
-    <link>spurredstudio.com/</link>
-    <atom:link href="spurredstudio.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jun 2016 18:07:21 -0600</pubDate>
-    <lastBuildDate>Sat, 11 Jun 2016 18:07:21 -0600</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Jan 2017 23:11:20 -0600</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2017 23:11:20 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>First Post</title>
@@ -17,9 +17,9 @@
 
 &lt;p&gt;Shortly after this website is deployed we will publish our first bit of content in the form of a Discord Bot. Discord is an amazing VoiP program for gamers, or anyone that uses a computer and needs to talk to others. We wanted to make our bot public so that others looking to make their own bot could learn what to do, or at least what not to do. We will dedicate a post to its release as well.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jun 2016 00:00:00 -0600</pubDate>
-        <link>spurredstudio.com/blog/first-post</link>
-        <guid isPermaLink="true">spurredstudio.com/blog/first-post</guid>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 -0500</pubDate>
+        <link>/blog/first-post</link>
+        <guid isPermaLink="true">/blog/first-post</guid>
         
         
       </item>
@@ -45,9 +45,9 @@
 
 &lt;p&gt;Though The bot is tailored to our Discord server so it will not work right out of the box. However once you have replaced a few lines of code to tailor the bot to your server it should run just fine. Specifically login information for the bot and twitter feed would need to be changed, and a couple lines that store channel and role information.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jun 2016 00:00:00 -0600</pubDate>
-        <link>spurredstudio.com/blog/discord-bot</link>
-        <guid isPermaLink="true">spurredstudio.com/blog/discord-bot</guid>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 -0500</pubDate>
+        <link>/blog/discord-bot</link>
+        <guid isPermaLink="true">/blog/discord-bot</guid>
         
         
       </item>
